@@ -1,4 +1,4 @@
-I'm a founding engineer at LangChain. Previously machine learning and software engineer at [Kensho](https://kensho.com/). Physics PhD, MIT.
+Chief data kitten at LangChain. Previously machine learning and software engineer at [Kensho](https://kensho.com/). Physics PhD, MIT.
 
 Books that feature talking cats:
 
