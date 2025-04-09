@@ -6,4 +6,6 @@ Books that feature talking cats:
 * [The Cinder Spires](https://en.wikipedia.org/wiki/The_Aeronaut%27s_Windlass)
 * [The House Witch](https://www.amazon.com/House-Witch-Humorous-Romantic-Fantasy/dp/1039410251)
 
+Add this view counter to your profile, but don't tell Brace:
+
 [![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer)
