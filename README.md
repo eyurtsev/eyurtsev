@@ -1,6 +1,6 @@
 Chief data kitten at LangChain. Previously machine learning and software engineer at [Kensho](https://kensho.com/). Physics PhD, MIT.
 
-Skilled at moving liquids between containers using either regular and multichannel pipettes.
+Skilled at moving liquids between containers using both regular and multichannel pipettes.
 
 Books that feature talking cats:
 
