@@ -1,4 +1,4 @@
-Chief data kitten at LangChain. Previously machine learning and software engineer at [Kensho](https://kensho.com/). Physics PhD, MIT.
+Chief data kitten at LangChain. Previously ML & SWE at [Kensho](https://kensho.com/), Physics @ MIT
 
 Skilled at moving liquids between containers using both regular and multichannel pipettes.
 
